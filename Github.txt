@@ -1,0 +1,22 @@
+git init
+git status
+git add . (for all)
+or
+git add filename
+git status
+
+git commit -m "first commit"
+
+git config --global user.email "muhammadfarazsumra@gmail.com"
+git config --global user.name "213020aumc"
+
+git commit -m "first commit"
+
+git branch -M main
+
+Copy Link From the Github and Paste or Write on Git Bash
+
+git push -u origin main
+
+hermione19fr@gmail.com
+213007
